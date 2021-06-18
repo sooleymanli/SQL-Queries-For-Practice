@@ -1,6 +1,8 @@
 ## SQL-ə yeni başlayanlar üçün məsələlər və sorğu nümunələri
 * [Buradan online şəkildə sorğularınızı yaza bilərsiniz](https://livesql.oracle.com/)
-* [1-15](https://livesql.oracle.com/apex/livesql/s/lx8gs8xuedbhqjwl94c9w902o)
+
+# Nəticələr
+* [1-15 N](https://livesql.oracle.com/apex/livesql/s/lx8gs8xuedbhqjwl94c9w902o)
 * [15-27](https://livesql.oracle.com/apex/livesql/s/lx8h67o0byr4d3cvgbbp9dzp9)
 
 
