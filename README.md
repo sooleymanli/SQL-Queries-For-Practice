@@ -1,14 +1,16 @@
-## SQL-ə yeni başlayanlar üçün məsələlər və sorğu nümunələri
+# SQL-ə yeni başlayanlar üçün məsələlər və sorğu nümunələri
 * [Buradan online şəkildə sorğularınızı yaza bilərsiniz](https://livesql.oracle.com/)
 
-# Nəticələr
+
+### Nəticələr
 * [1-15 N](https://livesql.oracle.com/apex/livesql/s/lx8gs8xuedbhqjwl94c9w902o)
 * [15-27](https://livesql.oracle.com/apex/livesql/s/lx8h67o0byr4d3cvgbbp9dzp9)
 
 
 
 ![ScreenShot](/screenshot.gif)
-##
+
+### Məsələlər
 1. Email-i olmayan müştərilərin telefon nömrələrini göstərin.
 2. İstifadəçinin adını əgər varsa email-ni, yoxdursa telefon nömrəsini əlaqa vasitəsi kimi göstərin.
 3. 2-ci ən yüksək maaş alan işçinin adını qaytaracaq query yazın.
