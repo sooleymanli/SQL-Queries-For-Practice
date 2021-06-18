@@ -1,3 +1,5 @@
+CREATE DATABASE HR;
+USE HR;
 CREATE TABLE employees  
     ( employee_id    NUMBER(6)  
                      CONSTRAINT emp_emp_id_pk  
